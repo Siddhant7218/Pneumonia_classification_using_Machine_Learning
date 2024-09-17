@@ -2,7 +2,7 @@
 
 Title: Pneumonia Classification Using Machine Learning
 
-Platform: Python, ML, CNN, GitHub 
+Platform: Python, Numpy, Pandas, Machine Learning, Neural Network, Convolutional Neural Network (CNN), GitHub 
 
 Description:  This study introduces a Convolutional Neural Network (CNN) model designed to classify and detect pneumonia
 from chest X-ray images. The model, trained from scratch, uses convolutional layers to extract key features from
